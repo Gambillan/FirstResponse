@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FirstResponse</string>
+    <string name="checkIn">Check-In</string>
+    <string name="findUser">Find User</string>
+    <string name="registerService">Register Service</string>
+    <string name="findService">Find Service</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="age">Age</string>
+    <string name="location">Choose Location</string>
+    <string name="takePhoto">Take Photo</string>
+    <string name="clear">Clear</string>
+    <string name="submit">Submit</string>
+    <string name="search">Search</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="keyword">Keywords</string>
+    <string name="title_activity_choose_location">Map</string>
+    <string name="done">Done</string>
+    <string name="usePhoneLocation">Use Phone Location</string>
+</resources>
